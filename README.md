@@ -165,7 +165,4 @@ ForgeDB was built to understand the internals of persistent storage engines and 
 
 ## Author
 
-**Somiran Dutta**
-# Key-Value-Database
-
-Made with collaboration with [Mohit Methi](https://github.com/mohitmethi1000)
+**Mohit Methi**
