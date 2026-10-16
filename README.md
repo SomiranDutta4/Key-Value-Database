@@ -79,7 +79,7 @@ EXIT
 Example:
 
 ```text
-PUT name Mohit
+PUT name Somiran
 GET name
 DELETE name
 ```
@@ -163,6 +163,4 @@ Current limitations include:
 
 ForgeDB was built to understand the internals of persistent storage engines and crash-consistent systems—from **WAL writes and in-memory storage to disk persistence, recovery, and compaction**.
 
-## Author
 
-**Mohit Methi**
